@@ -1,0 +1,12 @@
+docs/overview/requirements/README.md
+docs/architecture/README.md
+hardware/schematics/
+firmware/appl/src/
+firmware/appl/inc/
+firmware/boot/src/
+firmware/boot/inc/
+testing/unit_tests/
+testing/integration_tests/
+tools/scripts/
+docs/releases/
+.github/workflows/ci.yml
