@@ -47,9 +47,7 @@ El sistema opera en red local (modo Access Point), sin depender de servicios en 
 
 La especificación formal de requerimientos y arquitectura del sistema se encuentra documentada en:
 
-- [SRS – Software Requirements Specification](../docs/srs.md)
-- [Arquitectura y Requerimientos del Sistema](../docs/architecture/requirements.md)
-
+- [SRS – Software Requirements Specification](../docs/srs.pdf)
 ---
 
 ## 5. Hardware Utilizado y Justificación
