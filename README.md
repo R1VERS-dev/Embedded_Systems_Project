@@ -10,9 +10,7 @@ S.A.P.O es un sistema embebido basado en ESP32 diseñado para detectar partícul
 ## Documentación
 
 - [Overview](./Overview/overview.md)
-- [SRS - Software Requirements Specification](./docs/srs.md)
-- [Documentación completa del proyecto](./docs/full_documentation_SAPO.pdf)
-
+- [SRS – Software Requirements Specification](../docs/architecture/SRS/SRS.pdf)
 ---
 
 ## Equipo
